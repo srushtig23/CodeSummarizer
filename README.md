@@ -2,8 +2,6 @@
 
 An AI-powered web application that lets you upload Python files and automatically generates concise, human-readable summaries for each function and class — making it useful for developers, code reviewers, and learners.
 
-## 🚀 Live Demo
-👉 [Click here to try it out](https://your-vercel-deployment-url.vercel.app) *(replace with actual URL)*
 
 ---
 
