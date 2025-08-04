@@ -10,7 +10,6 @@ An AI-powered web application that lets you upload Python files and automaticall
 - 📄 Upload `.py` files directly in the browser
 - 🤖 Automatically extracts functions and classes from the code
 - 📝 Uses ML to generate meaningful summaries for each code block
-- ⚡ Fast, intuitive, and responsive UI (built with React + TailwindCSS)
 - 🧩 Handles small to moderately large codebases
 
 ---
